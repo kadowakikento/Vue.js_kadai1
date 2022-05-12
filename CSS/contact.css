@@ -1,0 +1,56 @@
+.content td{
+  height: 7rem;
+  width: 480px;
+}
+
+.contact th{
+  width: 150px;
+  padding-right: 10px;
+  text-align: right;
+
+}
+
+.company td{
+  width: 560px;
+  padding-left: 1rem;
+  border: solid 1px #B1B1B1;
+}
+
+.company {
+  border-collapse: collapse;
+}
+
+.button {
+  color: white;
+  background-color: #008B8B;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 3rem;
+}
+
+.sousin {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.sousin :hover{
+  opacity: 0.5;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  height: 100px;
+}
+
+.name {
+  width: 480px;
+}
+
+.email {
+  width: 480px;
+}
+
+.your-message {
+  width: 480px;
+}
